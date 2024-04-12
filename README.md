@@ -1,6 +1,6 @@
 # Archived
 
-**Attention**: This repository has been deprecated. All new updates are available [here](https://github.com/volodya-lombrozo/oop-vs-procedural/cost-of-oop/src/main/profiling/dropwizard/dropwizard-example).
+**Attention**: This repository has been deprecated. All new updates are available [here](https://github.com/volodya-lombrozo/oop-vs-procedural/tree/main/cost-of-oop/src/main/profiling/dropwizard/dropwizard-example).
 
 # Dropwizard
 
